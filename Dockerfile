@@ -7,4 +7,4 @@ RUN apk --no-cache add certbot
 
 WORKDIR /srv
 
-EXPOSE 80
+EXPOSE 80 443
